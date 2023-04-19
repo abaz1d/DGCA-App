@@ -1,0 +1,5 @@
+@import './_tailwind.css';
+@import './_colors.css';
+@import './_other.css';
+/* @import '@left4code/tw-starter/dist/css/_modal.css'; */
+@import '@left4code/tw-starter/dist/css/_tab.css';
