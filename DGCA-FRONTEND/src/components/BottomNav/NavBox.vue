@@ -3,9 +3,9 @@ import { RouterLink } from 'vue-router'
 </script>
 <template>
   <div
-    class="fixed bottom-0 left-0 z-50 w-full h-[85px] bg-white border-t border-gray-200 dark:bg-gray-700 dark:border-gray-600"
+    class="fixed bottom-0 left-0 z-50 w-full h-[86px] bg-white border-t border-gray-200 dark:bg-gray-700 dark:border-gray-600"
   >
-    <p class="text-center text-sm border-b opacity-70 text-slate-600">
+    <p class="text-center text-[15px] border-b opacity-70 text-slate-600">
       Created by: Indah Khairunnisa
     </p>
     <div class="grid h-[90%] max-w-lg grid-cols-2 mx-auto font-medium">
